@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm Yoon  
+## 👋 Hi, I'm YunYoung
 **Frontend Developer**  
 Clean UI · Stable Architecture · Thoughtful UX
 
@@ -69,7 +69,7 @@ React + TypeScript 기반의 엔터프라이즈 대시보드 템플릿 프로젝
 
 ## 📫 Contact
 
-- Email: yyyys2@example.com  
+- Email: bellelaide1005@gmail.com
 - Portfolio / Blog: coming soon
 
 ---
