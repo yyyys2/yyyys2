@@ -1,16 +1,97 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yyyys2/yyyys2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Yoon  
+**Frontend Developer**  
+Clean UI · Stable Architecture · Thoughtful UX
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧭 About
+
+- React + TypeScript 기반 **엔터프라이즈 웹 서비스**를 주로 개발합니다.
+- 복잡한 요구사항을 **유지보수 가능한 구조**로 정리하는 것을 중요하게 생각합니다.
+- 서버 상태와 UI 상태를 분리한 **명확한 상태 관리 전략**을 선호합니다.
+- 단순히 “동작하는 코드”보다 **설계 의도가 드러나는 코드**를 지향합니다.
+
+---
+
+## 🧰 Tech Stack
+
+**Frontend**
+- React, TypeScript, JavaScript
+- Vite
+- TanStack Router / TanStack Query
+- Zustand
+- React Hook Form, Zod
+
+**UI**
+- Tailwind CSS
+- shadcn/ui
+
+**Backend / Infra (Experience)**
+- Spring Boot
+- PostgreSQL, MySQL
+- REST API
+- CI/CD 환경 경험
+
+---
+
+## 🧩 Featured Project
+
+### 🏢 Enterprise Dashboard Frontend
+React + TypeScript 기반의 엔터프라이즈 대시보드 템플릿 프로젝트입니다.  
+실무에서 반복되는 **대시보드 아키텍처, 상태 관리, 권한 제어 패턴**을 정리했습니다.
+
+**Highlights**
+- Feature-based Architecture
+- Server State / UI State 분리
+- RBAC (Role-Based Access Control)
+- Users / Orders 도메인 확장 가능한 구조
+- Optimistic Update & Unsaved Changes Guard
+
+**Tech**
+- React, TypeScript
+- TanStack Router / Query
+- Zustand
+- Tailwind CSS + shadcn/ui
+
+🔗 **Repository**  
+https://github.com/yyyys2/enterprise-dashboard-fe
+
+---
+
+## 🧠 What I Focus On
+
+- Frontend Architecture & Code Structure
+- State Management Strategy
+- Dashboard / Admin UX Patterns
+- Performance & Maintainability
+- Design System & Reusable Components
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yyyys2&show_icons=true&theme=graywhite&hide_title=true&hide_rank=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyys2&layout=compact&theme=graywhite" height="160" />
+
+</div>
+
+---
+
+## 📫 Contact
+
+- Email: yyyys2@example.com  
+- Portfolio / Blog: coming soon
+
+---
+
+<div align="center">
+
+_“Simple, quiet, and solid.”_
+
+</div>
