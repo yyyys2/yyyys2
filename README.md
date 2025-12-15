@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm Yunyoung
+## 👋 Hi, I'm Yoon  
 **Frontend Developer**  
 Clean UI · Stable Architecture · Thoughtful UX
 
@@ -25,16 +25,7 @@ Clean UI · Stable Architecture · Thoughtful UX
 - TanStack Router / TanStack Query
 - Zustand
 - React Hook Form, Zod
-
-**UI**
-- Tailwind CSS
-- shadcn/ui
-
-**Backend / Infra (Experience)**
-- Spring Boot
-- PostgreSQL, MySQL
-- REST API
-- CI/CD 환경 경험
+- Tailwind CSS, shadcn/ui
 
 ---
 
@@ -51,14 +42,7 @@ React + TypeScript 기반의 엔터프라이즈 대시보드 템플릿 프로젝
 - Users / Orders 도메인 확장 가능한 구조
 - Optimistic Update & Unsaved Changes Guard
 
-**Tech**
-- React, TypeScript
-- TanStack Router / Query
-- Zustand
-- Tailwind CSS + shadcn/ui
-
-🔗 **Repository**  
-https://github.com/yyyys2/enterprise-dashboard-fe
+🔗 https://github.com/yyyys2/enterprise-dashboard-fe
 
 ---
 
