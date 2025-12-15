@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi, I'm Yoon  
+## 👋 Hi, I'm Yunyoung
 **Frontend Developer**  
 Clean UI · Stable Architecture · Thoughtful UX
 
