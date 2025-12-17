@@ -32,17 +32,49 @@ Clean UI · Stable Architecture · Thoughtful UX
 ## 🧩 Featured Project
 
 ### 🏢 Enterprise Dashboard Frontend
-React + TypeScript 기반의 엔터프라이즈 대시보드 템플릿 프로젝트입니다.  
-실무에서 반복되는 **대시보드 아키텍처, 상태 관리, 권한 제어 패턴**을 정리했습니다.
 
-**Highlights**
+**React + TypeScript 기반 엔터프라이즈 대시보드 템플릿**
+
+실무에서 반복되는 **대시보드 아키텍처, 상태 관리, 권한 제어 패턴**을 정리한 프로젝트입니다.  
+확장성과 유지보수를 고려한 **구조 설계**에 초점을 맞췄습니다.
+
+### Key Concepts
 - Feature-based Architecture
 - Server State / UI State 분리
 - RBAC (Role-Based Access Control)
 - Users / Orders 도메인 확장 가능한 구조
 - Optimistic Update & Unsaved Changes Guard
 
-🔗 https://github.com/yyyys2/enterprise-dashboard-fe
+### Tech Stack
+`React` `TypeScript` `React Query` `Zustand` `React Router`
+
+🔗 **Repository**  
+https://github.com/yyyys2/enterprise-dashboard-fe
+
+---
+
+### ⚡ Virtualized Feed UI (Performance Lab)
+
+**대용량 리스트 렌더링 성능 개선 실험 프로젝트**
+
+50,000개 아이템을 기준으로 **Baseline 렌더링 병목을 재현**하고,  
+`@tanstack/react-virtual`을 적용하여 **성능 개선 효과를 정량적으로 비교**합니다.
+
+### Focus
+- Virtualization
+- Rendering Performance
+- Fair Performance Comparison
+
+### Pages
+- Baseline
+- Optimized
+- Metrics Comparison
+
+### Tech Stack
+`React` `TypeScript` `@tanstack/react-virtual`
+
+🔗 **Repository**  
+https://github.com/yyyys2/virtualized-feed-ui
 
 ---
 
