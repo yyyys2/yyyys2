@@ -77,6 +77,33 @@ https://github.com/yyyys2/enterprise-dashboard-fe
 https://github.com/yyyys2/virtualized-feed-ui
 
 ---
+### 🔍 Searchable Data Explorer (URL State Architecture)
+
+**URL 상태 기반 검색 / 필터 / 정렬 / 페이지네이션 아키텍처 프로젝트**
+
+URL을 단일 진실 소스(Source of Truth)로 삼아  
+검색 · 필터 · 정렬 · 페이지네이션 상태를 **구조적으로 설계**한 프로젝트입니다.
+
+기본값 제거 전략을 통해 **깨끗한 URL을 유지**하면서도,  
+새로고침 · 공유 링크 · 히스토리 이동 시 **동일 화면을 완전히 재현**할 수 있도록 구현했습니다.
+
+### Focus
+- URL = Source of Truth
+- URL State Architecture
+- Domain Logic / UI 완전 분리
+- Framework-agnostic Core Design
+
+### Pages
+- Explorer (Search / Filter / Sort / Pagination)
+- URL Sync State View
+
+### Tech Stack
+`TypeScript` `Zod` `React` `TanStack Router` `Vite` `Tailwind CSS` `Vitest`
+
+🔗 **Repository**  
+https://github.com/yyyys2/searchable-data-explorer
+
+---
 
 ## 🧠 What I Focus On
 
